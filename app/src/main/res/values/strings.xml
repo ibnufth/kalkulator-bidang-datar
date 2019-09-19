@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KalkulatorBidangDatar</string>
+    <string name="tv_value_1">Panjang /Alas /Diameter</string>
+    <string name="tv_value_2">Lebar / Alas</string>
+    <string name="btn_htg_persegi">Hitung Persegi</string>
+    <string name="btn_htg_segitiga">Hitung Segitiga</string>
+    <string name="btn_htg_lingkaran">Hitung Lingkaran</string>
+    <string name="tv_luas">Luas</string>
+    <string name="tv_keliling">Keliling</string>
+    <string name="funct">Ibnu Fathan\nA11.2017.10070</string>
+</resources>
